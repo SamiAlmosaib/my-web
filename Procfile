@@ -1,1 +1,1 @@
-web: gunicorn moah.wsgi
+web: gunicorn moha.wsgi
